@@ -1,0 +1,126 @@
+{
+   "type" : "userWsDTO",
+   "name" : "Sitthinon Luxsanachimplee",
+   "uid" : "wtcth-2f2c0474-9748-4261-b27d-b3d9135751e6",
+   "crmInformation" : {
+      "lastCrmReceivedDate" : "2025-08-25T08:00:44+0000",
+      "smsVerificationFlag" : true,
+      "status" : "UPDATED",
+      "storeCode" : ""
+   },
+   "defaultAddress" : {
+      "addressLine1" : "-",
+      "addressOption1" : [ ],
+      "addressOption2" : [ ],
+      "addressOption3" : [ ],
+      "billingAddress" : false,
+      "contactAddress" : true,
+      "country" : {
+         "isocode" : "TH",
+         "name" : "Thailand"
+      },
+      "dimmed" : false,
+      "displayFullAddress" : "",
+      "district" : "",
+      "email" : "luxsanachimplee@gmail.com",
+      "firstName" : "Sitthinon",
+      "homeAddressNumber" : "",
+      "id" : "9949694230551",
+      "isDefaultBillingAddress" : false,
+      "isDefaultShippingAddress" : false,
+      "isDefaultTaxAddress" : false,
+      "isHomeExpressDeliverySupported" : false,
+      "isSpecialAddress" : false,
+      "isSupportEDR" : true,
+      "lastName" : "Luxsanachimplee",
+      "mobileNumber" : "0616425245",
+      "mobileNumberCountryCode" : "66",
+      "moo" : "",
+      "needForceUpdate" : false,
+      "phone" : "",
+      "phone1" : "",
+      "postalCode" : "",
+      "province" : "",
+      "shippingAddress" : false,
+      "showUpdateReminder" : false,
+      "soi" : "",
+      "streetName" : "",
+      "subDistrict" : "",
+      "taxAddress" : false,
+      "village" : "",
+      "visibleInAddressBook" : false
+   },
+   "gdprServiceInformation" : {
+      "marketingCommAccepted" : false,
+      "privacyPolicyAccepted" : true,
+      "termsCheck" : true,
+      "zaloTncAccepted" : false
+   },
+   "invitationCodes" : [ {
+      "code" : "7bCrecLNcL",
+      "type" : "FRIEND_GET_FRIEND"
+   } ],
+   "isCustomerInfoCompleted" : false,
+   "loyaltyInformation" : {
+      "cardNumber" : "881120000142698354",
+      "cardStatus" : "ISSUED",
+      "cardType" : "REGULAR",
+      "memberNumber" : "120000142698354",
+      "memberStartDate" : "Mon Aug 25 00:00:00 ICT 2025",
+      "pointsBalance" : "0"
+   },
+   "personalInformation" : {
+      "otherLangFirstName" : "สิทธินนท์",
+      "otherLangLastName" : "ลักษณะฉิมพลี"
+   },
+   "preferencesInformation" : {
+      "communicationMethods" : [ ],
+      "currency" : {
+         "active" : true,
+         "conversion" : 1.0,
+         "isocode" : "THB",
+         "symbol" : "฿"
+      },
+      "enjoyIdentityDiscount" : false,
+      "language" : {
+         "active" : true,
+         "isocode" : "th",
+         "name" : "Thai",
+         "nativeName" : "Thai"
+      }
+   },
+   "socialMediaLogins" : [ ],
+   "userGroups" : [ {
+      "name" : "EShopper Customer Group",
+      "uid" : "eshopper"
+   }, {
+      "name" : "Base Customer Group",
+      "uid" : "base"
+   }, {
+      "uid" : "customergroup"
+   } ],
+   "vipProgrammeInformation" : {
+      "qualPeriodEndDate" : "2025-12-31",
+      "qualPeriodSpendingAmount" : {
+         "currencyIso" : "THB",
+         "formattedValue" : "฿0.00",
+         "priceType" : "BUY",
+         "value" : 0.00000000
+      },
+      "tierEndDate" : "2026-12-31",
+      "tierName" : "BASE",
+      "tierStartDate" : "2025-08-25",
+      "tierThreshold" : {
+         "currencyIso" : "THB",
+         "formattedValue" : "฿14,000.00",
+         "priceType" : "BUY",
+         "value" : 14000.0
+      },
+      "tierThresholdLeft" : {
+         "currencyIso" : "THB",
+         "formattedValue" : "฿14,000.00",
+         "priceType" : "BUY",
+         "value" : 14000.00000000
+      }
+   }
+}
