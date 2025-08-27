@@ -2,9 +2,9 @@ from playwright.sync_api import sync_playwright
 import time, os, csv
 import requests  # Added for optional link validation
 
-TARGET_URL = "https://www.watsons.co.th/th/c/010100?currentPage=14"
+TARGET_URL = "https://www.watsons.co.th/th/search?text=%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9C%E0%B8%A1&useDefaultSearch=false&brandRedirect=true"
 SESSION_FILE = "watsons_session.json"
-OUTPUT_CSV = "watsons_product_links.csv"
+OUTPUT_CSV = "final_test.csv"
 
 def save_to_csv(links):
     """Append product links to a CSV file."""
@@ -13,10 +13,11 @@ def save_to_csv(links):
         writer = csv.writer(f)
         # Write header only if file doesn't exist
         if not file_exists:
-            writer.writerow(['URL', 'Scraped_At'])
+            writer.writerow(['URL', 'Types'])
         current_time = time.strftime("%Y-%m-%d %H:%M:%S")
+        types = "Shampoo"  # Change here
         for url in links:
-            writer.writerow([url, current_time])
+            writer.writerow([url, types])
     print(f"✅ Appended {len(links)} unique links to {OUTPUT_CSV}")
 
 def validate_url(url):
