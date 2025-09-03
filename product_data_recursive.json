@@ -615,13 +615,13 @@
         },
         {
             "id": 101,
-            "name": "Phenoxyeth ซ่อน โปรโมชั่น: (2) เมื่อซื้อ Mee ครบ 199 บาท",
+            "name": "Phenoxyeth",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 102,
-            "name": "AQUA -ETHYLHEXYL METHOXYCINNAMATE -ETHYLHEXYL SALICYLATE -GLYCERYL STEARATE -CETEARETH-11 -CETYL PALMITATE -CETEARETH-25 -OXYBENZONE -CETYL ALCOHOL• POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE•CETEARETH-12•POLYMETHYLSILSESQUIOXANE •NIACINAMIDE•PROPYLENE GLYCOL•DIISOPROPYL DIMER DILINOLEATE• CYCLOPENTASILOXANE•MAGNESIUM STEARATE•TITANIUM DIOXIDE•SILICA•TOCOPHERYL ACETATE•POLYGLYCERYL-4 ISOSTEARATE•CETYL PEG/PPG-10/1 DIMETHICONE•HEXYL LAURATE• C9-15 FLUOROALCOHOL PHOSPHATE•ALUMINA•PHENOXYETHANOL•CHLORPHENESIN• GLYCERIN•DISODIUM EDTA•PERFUME. ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "AQUA -ETHYLHEXYL",
             "allergic": false,
             "allergic-relation": null
         },
@@ -729,7 +729,7 @@
         },
         {
             "id": 120,
-            "name": "Phenoxyethanol ซ่อน โปรโมชั่น: (1)",
+            "name": "Phenoxyethanol",
             "allergic": false,
             "allergic-relation": null
         },
@@ -909,7 +909,7 @@
         },
         {
             "id": 150,
-            "name": "Sodium Benzoateคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Sodium Benzoate",
             "allergic": false,
             "allergic-relation": null
         },
@@ -933,7 +933,7 @@
         },
         {
             "id": 154,
-            "name": "Glyceryl Sterate ซ่อน โปรโมชั่น: (2) เมื่อซื้อสินค้า Nivea&Nivea630 ครบ 999 บาท",
+            "name": "Glyceryl Sterate",
             "allergic": false,
             "allergic-relation": null
         },
@@ -963,7 +963,7 @@
         },
         {
             "id": 159,
-            "name": "Etc. ซ่อน โปรโมชั่น: (3) เมื่อซื้อ Mille ครบ 999 บาท",
+            "name": "Etc",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1029,13 +1029,13 @@
         },
         {
             "id": 170,
-            "name": "Sodium Chlorideคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Sodium Chloride",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 171,
-            "name": "2071726 3 - INGREDIENTS/BAHAN-BAHAN/ส่วนผสม :AQUA / WATER",
+            "name": "BAHAN-BAHAN",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1179,19 +1179,19 @@
         },
         {
             "id": 195,
-            "name": "PARFUM / FRAGRANCE. (F.I.L. Z70049198/1)คำเตือนหลีกเลี่ยงบริเวณรอบดวงตา",
+            "name": "PARFUM / FRAGRANCE",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 196,
-            "name": "AQUA CYCLOPENTASILOXANE PHENYL TRIMETHICONEGLYCERINE PEG10 DIMETHICONE CAPRYLICACAPRIC TRIGLYCERIDE TITANIUM DIOXIDE ETHYLHEXYL METHOXYCINNAMATE LAURYL PEG10 TRIS TRIMETHYLSILOXYISILYLETHYL DIMETEHICONE SODIUM CHLORIDE DIMTHICONENINYL DIMETHICONE CROSSPOLYMER PROPANEDIOL SILICA ALUMINUM HYDROXIDE METHYLENE BISBENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL NANO DISTEARDIMONIUM HECTORITE ETHYLHEXYLGLYCERIN CI 77492 POLYGLYCERYL2 TRISOSTEARATE TOCOPHERYL ACETATE BISETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE ACRYLATESC12 22 ALKYL METHACRYLATE COPOLYMER TRIETHOXYCAPRYLYLSILANE CI 7741 XANTHAN GUM DISODIUM EDTA ISONONYL ISONONANOATE DECYL GLUCOSIDE ARGININE ALOE BARBADENSIS LEAF JUICE POWDER COCO GLUCOSID SORBITAN OLEATE ETHYLENE PROPYLENE STYRENE COPOLYMER C1 77499 PHENOXYETHANOL PENTYLENE GLYCOL AVENA SATIVA LEA EXRAC CINNAMOMUMA CARPHORA LEAF EXTRACT RUTIN BIOSACCHARIDE GU1 1 DISODIUM LAURYL SULFOSUCCINATE 1 2-HEXANEDIOL SODIUM HYALURONATE PROPYLENE GLYCOL TRIBEHENIN NIACINAMIDE BUTYLENE GLYCOL POTASSIUM HYALURONATE HYALURONIC ACID. HYDROLYZED HYALURONIC ACID HYDROLYZED SODIUM HYALURONATE. HYDROXYPROPYLTRIMONIUM HYALURONATE SODIUM ACETYLATED HYALURONATE. SODIUM HYALURONATE CROSSPOLYMER",
+            "name": "AQUA CYCLOPENTASILOXANE",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 197,
-            "name": "LECITHIN. ARBUTIN GLUTATHIONE LINOLENIC ACID LINOLEIC ACID ASCORBYL PALMITATEคำเตือน1.การใช้เครื่องสำอางที่มีสารป้องกันแสงแดดเป็นเพียงวิธีหนึ่งที่จะช่วยลดความเสี่ยงจากอันตรายจากแสงแดด 2.อ่านวิธีใช้ให้ละเอียด และปฎิบัติตามอย่างเคร่งครัด 3.หากใช้แล้วมีความผิดปกติใดๆ เกิดขึ้น ต้องหยุดใช้และปรึกษาแพทย์หรือเภสัชกร ซ่อน โปรโมชั่น: (1) เมื่อซื้อ Deesay ครบ 390 บาท",
+            "name": "LECITHIN",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1281,7 +1281,7 @@
         },
         {
             "id": 212,
-            "name": "CI 77891คำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "CI 77891",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1311,7 +1311,7 @@
         },
         {
             "id": 217,
-            "name": "1",
+            "name": "C12-15 ALKYL BENZOATE",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1365,7 +1365,7 @@
         },
         {
             "id": 226,
-            "name": "CENTELLA ASIATICA EXTRACTคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "CENTELLA ASIATICA EXTRACT",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1419,7 +1419,7 @@
         },
         {
             "id": 235,
-            "name": "Ethylhexylglycerinคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Ethylhexylglycerin",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1623,7 +1623,7 @@
         },
         {
             "id": 269,
-            "name": "Capryliคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Capryli",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1827,67 +1827,67 @@
         },
         {
             "id": 303,
-            "name": "TROMETHAMINE ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "TROMETHAMINE",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 304,
-            "name": "BAHAN-BAHAN: AQUA / WATER ALCOHOL DENAT. DIISOPROPYL SEBACATE SILICA ISOPROPYL MYRISTATE ETHYLHEXYL SALICYLATE ETHYLHEXYL TRIAZONE BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE BUTYL METHOXYDIBENZOYLMETHANE GLYCERIN PROPANEDIOL C12-22 ALKYL ACRYLATE/HYDROXYETHYLACRYLATE COPOLYMER DROMETRIZOLE TRISILOXANE PERLITE CAPRYLIC/CAPRIC TRIGLYCERIDE TOCOPHEROL HYDROXYACETOPHENONE HYDROXYETHYLCELLULOSE SODIUM HYALURONATE TRIETHANOLAMINE TRISODIUM ETHYLENEDIAMINE DISUCCINATE SILICA SILYLATE LIMONENE LINALOOL CAPRYLYL GLYCOL ALPHA-ISOMETHYL IONONE TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER HEXYL CINNAMAL PARFUM / FRAGRANCE. (F.I.L. Z288407/1)คำเตือนคำเตือน 1. การใช้เครื่องสำอางที่มีสารป้องกันแสงแดด เป็นเพียงวิธีหนึ่งที่จะช่วยลดความเสี่ยงจากอันตรายจากแสงแดด 2.",
+            "name": "BAHAN-BAHAN: AQUA / WATER ALCOHOL DENAT",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 305,
-            "name": "Aqua (Water",
+            "name": "Aqua Water",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 306,
-            "name": "USP) 71.65Octocrylene",
+            "name": "USP 71.65Octocrylene",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 307,
-            "name": "USP 6.0Benzophenone-3 (Oxybenzone",
+            "name": "USP 6.0Benzophenone-3",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 308,
-            "name": "USP) 4.0Butyl Methoxydibenzoylmethane (Avobenzone",
+            "name": "Butyl Methoxydibenzoylmethane Avobenzone",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 309,
-            "name": "USP) 3.0Ethylhexyl Benzoate 3.0Cetearyl Alcohol (and) Dicetyl Phosphate (and) Dicetyl Phosphate (and) Ceteth-10 Phosphate 1.4Phenethyl Benzoate 1.0Phenoxyethanol 1.0Caprylyl Glycol 0.50Methylparaben 0.25Aloe Barbadensis (Aloe Barbadensis Leaf Juice) 0.01 ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "USP) 3.0Ethylhexyl Benzoate 3.0Cetearyl",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 310,
-            "name": "WATER DIBUTYL ADIPATE GLYCERIN ETHYLHEXYL TRIAZONE DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE POLYSILICONE-15 C12-15 ALKYL BENZOATE NIACINAMIDE TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID TROMETHAMINE GLYCERYL STEARATE CETEARYL ALCOHOL PEG-100 STEARATE 1",
+            "name": "WATER DIBUTYL ",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 311,
-            "name": "2-HEXANEDIOL HYDROXYACETOPHENONE POTASSIUM CETYL PHOSPHATE ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER CARBOMER FRAGRANCE PANTHENOL ADENOSINE DISODIUM EDTA BUTYLENE GLYCOL ALOE BARBADENSIS LEAF EXTRACT SODIUM HYALURONATE CAMELLIA SINENSIS LEAF EXTRACT HYDROLYZED EXTENSINคำเตือน1. การใช้เครื่องสำอางที่มีสารป้องกันแสงแดด เป็นเพียงวิธีหนึ่งที่จะช่วยลดความเสี่ยงจากอันตรายจากแสงแดด 2.",
+            "name": "2-HEXANEDIOL",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 312,
-            "name": "Glycerin ซ่อน โปรโมชั่น: (1)",
+            "name": "Glycerin ",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 313,
-            "name": "Lauryl PEG/PPG-18/18 Methicone",
+            "name": "Lauryl ",
             "allergic": false,
             "allergic-relation": null
         },
@@ -1947,7 +1947,7 @@
         },
         {
             "id": 323,
-            "name": "Phenoxyethanolคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Phenoxyethanol",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2001,7 +2001,7 @@
         },
         {
             "id": 332,
-            "name": "CI 77891คำเตือน1. การใช้เครื่องสำอางที่มีสารป้องกันแสงแดด เป็นเพียงวิธีหนึ่งที่จะช่วยลดความเสี่ยงจากอันตรายจากแสงแดด 2.",
+            "name": "CI 77891",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2199,7 +2199,7 @@
         },
         {
             "id": 365,
-            "name": "SODIUM HYALURONATE ซ่อน โปรโมชั่น: (2) กรุณาใส่สินค้าเข้าตะกร้า 2 ชิ้น เพื่อได้รับสิทธินี้",
+            "name": "SODIUM HYALURONATE",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2313,13 +2313,13 @@
         },
         {
             "id": 384,
-            "name": "DISODIUM EDTA ซ่อน โปรโมชั่น: (1)",
+            "name": "DISODIUM EDTA ",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 385,
-            "name": "Salicylic acid/ Ceramides/ Niacinamide/ Gluconolactone ซ่อน โปรโมชั่น: (2) The discount is applicable for members who received promotion via sms and email only",
+            "name": "Salicylic acid/ Ceramides/ Niacinamide/ Gluconolactone ",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2367,7 +2367,7 @@
         },
         {
             "id": 393,
-            "name": "Sodium Hydroxideคำเตือนใช้ภายนอกเท่านั้น",
+            "name": "Sodium Hydroxide",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2487,7 +2487,7 @@
         },
         {
             "id": 413,
-            "name": "CUPRESSUS SEMPERVIRENS LEAF/NUT/STEM OIL ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "CUPRESSUS SEMPERVIRENS LEAF/NUT/STEM OIL ",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2547,13 +2547,13 @@
         },
         {
             "id": 423,
-            "name": "Citric Acid. ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Citric Acid",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 424,
-            "name": "Aqua Water Palmitic Acid Myristic Acid Stearic Acid Butylene Glycol Glycerin Potassium Hydroxide Sorbitol PEG250 Distearate Glycol Distearate Sodium Lauroyl Glutamate Mel Honey Parfum Fragrance Lauric Acid Phenoxyethanol Arachidic Acid Propylene Glycol Alcohol Denat Iodopropynyl Butylcarbamate Hydrolyzed Collagen CI 19140 Yellow 5 CI 14700 Red 4คำเตือน1",
+            "name": "Aqua Water Palmitic Acid ",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2595,13 +2595,13 @@
         },
         {
             "id": 431,
-            "name": "100 บาทซื้อสินค้า Kate",
+            "name": "Kate",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 432,
-            "name": "100 บาท ซื้อสินค้า Kate",
+            "name": "katie",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2703,7 +2703,7 @@
         },
         {
             "id": 449,
-            "name": "CI10316 ซ่อน โปรโมชั่น: (2) เมื่อซื้อสินค้า Nivea&Nivea630 ครบ 999 บาท",
+            "name": "CI10316 ",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2811,7 +2811,7 @@
         },
         {
             "id": 467,
-            "name": "Parfum ซ่อน โปรโมชั่น: (2) เมื่อซื้อสินค้า Nivea&Nivea630 ครบ 999 บาท",
+            "name": "Parfum",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2847,7 +2847,7 @@
         },
         {
             "id": 473,
-            "name": "CI 77891 ไม่ใส่สารพาราเบน ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "CI 77891",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2943,13 +2943,13 @@
         },
         {
             "id": 489,
-            "name": "Hydrolyzed Collagenคำเตือนสำหรับใช้ภายนอกเท่านั้น",
+            "name": "Hydrolyzed Collagen",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 490,
-            "name": "Water Aqua Glycerin Myristic AcidPalmitic Acid StearicAcid TriethanolaminePotassium HydroxideMagnesium AluminumSilicate Glyceryl Stearate Decyl Glucoside Titanium Dioxide Algae Extract Laminaria DigitataExtract Tocopheryl Acetate Vitamin E Hamamelis Virginiana Witch Hazel Leaf Water Propylene Glycol Alcohol Denatured Perfume Methylparaben Diazolidinyl UreaPropylparaben Phenoxyethanol Ethylparaben ซ่อน โปรโมชั่น: (1) เมื่อซื้อ Revlon (Only Makeup) ครบ 499 บาท",
+            "name": "Phenoxyethanol Ethylparaben",
             "allergic": false,
             "allergic-relation": null
         },
@@ -2985,7 +2985,7 @@
         },
         {
             "id": 496,
-            "name": "CI 77499คำเตือน1.",
+            "name": "CI 77499",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3027,7 +3027,7 @@
         },
         {
             "id": 503,
-            "name": "Parfumคำเตือน1.อ่านวิธีใช้ให้ละเอียด และปฏิบัติตามอย่างเคร่งครัด 2.หากใช้แล้วมีความผิดปกติใดๆ เกิดขึ้น ต้องหยุดใช้และปรึกษาแพทย์",
+            "name": "Parfum",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3111,7 +3111,7 @@
         },
         {
             "id": 517,
-            "name": "MANGIFERA INDICA (MANGO) LEAF EXTRACTคำเตือน1.",
+            "name": "MANGIFERA INDICA (MANGO) LEAF EXTRACT.",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3153,7 +3153,7 @@
         },
         {
             "id": 524,
-            "name": "FRAGRANCE ซ่อน โปรโมชั่น: (1)",
+            "name": "FRAGRANCE",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3171,7 +3171,7 @@
         },
         {
             "id": 527,
-            "name": "Panax Ginseng Root Extractคำเตือน1.",
+            "name": "Panax Ginseng Root Extract",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3201,7 +3201,7 @@
         },
         {
             "id": 532,
-            "name": "Ascorbic Acid ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Ascorbic Acid",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3243,13 +3243,13 @@
         },
         {
             "id": 539,
-            "name": "Petrolatumคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Petrolatum",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 540,
-            "name": "AQUA COCAMIDOPROPYL BETAINE MYRISTIC ACID GLYCERINE ACRYLATES COPOLYMER SODIUM LAURETH SULFATE POTASSIUM HYDROXIDE LAURIC ACID GLYCOL DISTEARATE PALMITIC ACID FRAGRANCE MENTHOL TRIETHANOLAMINE BUTYLENE GLYCOL LACTIC ACID SODIUM LAURYL SULFATE SACCHAROMYCES FERMENT FILTRATE ALBATRELLUS CONFLUENS EXTRACT NIACINAMIDE HYALURONIC ACID SODIUM METABISULFITE BENZYLคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "ACID SODIUM METABISULFITE BENZYL",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3285,7 +3285,7 @@
         },
         {
             "id": 546,
-            "name": "DL-Alpha Tocopheryl Acetate ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "DL-Alpha Tocopheryl Acetate ",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3315,7 +3315,7 @@
         },
         {
             "id": 551,
-            "name": "Niacinamideความกว้าง12ความสูง8.5ความลึก4 ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Niacinamide",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3363,7 +3363,7 @@
         },
         {
             "id": 559,
-            "name": "CI 17200 ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "CI 17200",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3393,7 +3393,7 @@
         },
         {
             "id": 564,
-            "name": "CI 17200คำเตือนเก็บให้พ้นจากมือเด็ก",
+            "name": "CI 17200",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3417,7 +3417,7 @@
         },
         {
             "id": 568,
-            "name": "CI 42090คำเตือนหากเข้าตาให้ล้างออกด้วยน้ำสะอาด",
+            "name": "CI 42090",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3441,7 +3441,7 @@
         },
         {
             "id": 572,
-            "name": "MALT EXTRACTคำเตือนหากเกิดอาการผิดปกติ ให้หยุดใช้และปรึกษาแพทย์ ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "MALT EXTRACT",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3507,7 +3507,7 @@
         },
         {
             "id": 583,
-            "name": "CI 17200คำเตือนหากใช้แล้วมีอาการผิดปกติ ให้หยุดใช้และปรึกษาแพทย์ ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "CI 17200",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3579,7 +3579,7 @@
         },
         {
             "id": 595,
-            "name": "Ci 15985 ซ่อน โปรโมชั่น: (1)",
+            "name": "Ci 15985",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3627,7 +3627,7 @@
         },
         {
             "id": 603,
-            "name": "Biotinคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Biotin",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3657,7 +3657,7 @@
         },
         {
             "id": 608,
-            "name": "Fragrance ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Fragrance",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3681,7 +3681,7 @@
         },
         {
             "id": 612,
-            "name": "CL 42090คำเตือนใช้ทำความสะอาดร่างกายภายนอกเท่านั้น",
+            "name": "CL 42090",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3699,7 +3699,7 @@
         },
         {
             "id": 615,
-            "name": "ALOE BARBADENSIS LEAF EXTRACT ซ่อน โปรโมชั่น: (1)",
+            "name": "ALOE BARBADENSIS LEAF EXTRACT",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3735,7 +3735,7 @@
         },
         {
             "id": 621,
-            "name": "Ascorbyl Palmitate ซ่อน โปรโมชั่น: (1)",
+            "name": "Ascorbyl Palmitate",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3759,13 +3759,13 @@
         },
         {
             "id": 625,
-            "name": "CI 19140 ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "CI 19140",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 626,
-            "name": "CI 42090คำเตือนใช้ทาภายนอกเท่านั้น เก็บให้พ้นจากมือเด็ก",
+            "name": "CI 42090",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3783,7 +3783,7 @@
         },
         {
             "id": 629,
-            "name": "Linaloolคำเตือนเก็บให้พ้นจากมือเด็ก",
+            "name": "Linalool",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3831,13 +3831,13 @@
         },
         {
             "id": 637,
-            "name": "CI 17200 (Red 33)คำเตือนเก็บให้พ้นมือเด็ก",
+            "name": "CI 17200 (Red 33)",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 638,
-            "name": "1Sodium Bicarbonate 2Citric Acid 3Zea Mays Corn Starch 4Cocamidopropyl Betaine 5Glycerin 6Malic Acid 7Tartaric Acid 8Distilled Water 9Simmondsia Chinensis Jojoba Seed Oil 10Pruns Amygdalus Dulcis Sweet Almond Oil 11Fragrance 12Tocopheryl Acetate 13CI16255 CI14720 CI19140 CI45430 ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Sodium Bicarbonate",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3855,7 +3855,7 @@
         },
         {
             "id": 641,
-            "name": "Witch Hazel ซ่อน โปรโมชั่น: (1)",
+            "name": "Witch Hazel",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3885,7 +3885,7 @@
         },
         {
             "id": 646,
-            "name": "Limoneneคำเตือนสำหรับใช้ภายนอกเท่านั้น เก็บให้พ้นจากมือเด็ก",
+            "name": "Limonene",
             "allergic": false,
             "allergic-relation": null
         },
@@ -3957,7 +3957,7 @@
         },
         {
             "id": 658,
-            "name": "GERANIOL [N2216/A]. ซ่อน โปรโมชั่น: (1)",
+            "name": "GERANIOL [N2216/A]",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4023,7 +4023,7 @@
         },
         {
             "id": 669,
-            "name": "Sodium Sulfiteคำเตือนห้ามใช้ในเด็กอายุต่ำกว่า 3",
+            "name": "Sodium Sulfite",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4077,7 +4077,7 @@
         },
         {
             "id": 678,
-            "name": "SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL.WATER",
+            "name": "SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4143,7 +4143,7 @@
         },
         {
             "id": 689,
-            "name": "GLYCERINคำเตือน1.ระวังอย่าให้เข้าตา 2.ห้ามใช้ในสตรีที่ตั้งครรภ์และระหว่างให้นมบุตร ซ่อน โปรโมชั่น: (1)",
+            "name": "GLYCERIN",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4275,7 +4275,7 @@
         },
         {
             "id": 711,
-            "name": "Trisiloxaneวิ ซ่อน โปรโมชั่น: (1)",
+            "name": "Trisiloxane",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4311,7 +4311,7 @@
         },
         {
             "id": 717,
-            "name": "Multi-Amino ซ่อน โปรโมชั่น: (2)",
+            "name": "Multi-Amino",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4359,7 +4359,7 @@
         },
         {
             "id": 725,
-            "name": "Xanthan Gum ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Xanthan Gum",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4401,7 +4401,7 @@
         },
         {
             "id": 732,
-            "name": "XYLITYLGLUCOSIDE ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "XYLITYLGLUCOSIDE",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4443,7 +4443,7 @@
         },
         {
             "id": 739,
-            "name": "1. น้ำแร่วิชี่ถึง 89 2. ไฮยาลูรอนจากธรรมชาติ 3. คาเฟอีนบริสุทธิ์",
+            "name": "Aqualie water",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4473,7 +4473,7 @@
         },
         {
             "id": 744,
-            "name": "ALLANTOIN. ซ่อน โปรโมชั่น: (1)",
+            "name": "ALLANTOIN",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4533,7 +4533,7 @@
         },
         {
             "id": 754,
-            "name": "SODIUM HYALURONATEคำเตือนหลีกเลี่ยงการเก็บครีมที่โดนแสงแดดหรืออุณหภูมิ",
+            "name": "SODIUM HYALURONATE",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4551,7 +4551,7 @@
         },
         {
             "id": 757,
-            "name": "Ethylhexylglycerin ซ่อน โปรโมชั่น: (2)",
+            "name": "Ethylhexylglycerin",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4623,7 +4623,7 @@
         },
         {
             "id": 769,
-            "name": "Propylene Carbonate. ซ่อน โปรโมชั่น: (1)",
+            "name": "Propylene Carbonate",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4647,7 +4647,7 @@
         },
         {
             "id": 773,
-            "name": "TRIBEHENIN ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "TRIBEHENIN",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4689,7 +4689,7 @@
         },
         {
             "id": 780,
-            "name": "PHENOXYETHANOL ETHYLHEXYLGLYCERIN ซ่อน โปรโมชั่น: (1)",
+            "name": "PHENOXYETHANOL ETHYLHEXYLGLYCERIN",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4737,7 +4737,7 @@
         },
         {
             "id": 788,
-            "name": "Sodium Hydroxideคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Sodium Hydroxide",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4779,7 +4779,7 @@
         },
         {
             "id": 795,
-            "name": "C 42090. ซ่อน โปรโมชั่น: (1)",
+            "name": "C 42090",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4887,19 +4887,19 @@
         },
         {
             "id": 813,
-            "name": "METHYLISOTHIAZOLINONE. F.I.L#D230036/2Aความกว้าง7.51ความสูง19ความลึก5.67 ซ่อน โปรโมชั่น: (2)",
+            "name": "METHYLISOTHIAZOLINONE",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 814,
-            "name": "AQUA / WATER / EAU / SODIUM LAURETH SULFATE / DIMETHICONE / GLYCOL DISTEARATE / COCO-BETAINE / GLYCERIN / PPG-5-CETETH-20 / SELENIUM SULFIDE / CARBOMER / CI 47005 / ACID YELLOW 3 / CITRIC ACID / MENTHOL / 2-OLEAMIDO-1",
+            "name": "SODIUM LAURETH SULFATE",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 815,
-            "name": "3-OCTADECANEDIOL / SALICYLIC ACID / SODIUM BENZOATE / SODIUM CHLORIDE / SODIUM HYALURONATE / SODIUM HYDROXIDE / TOCOPHERYL ACETATE / PARFUM / FRAGRANCE ซ่อน โปรโมชั่น: (1) The discount is applicable for members who received promotion via sms and email only The discount is applicable for members who received promotion via sms and email only ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": " PARFUM FRAGRANCE",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4971,7 +4971,7 @@
         },
         {
             "id": 827,
-            "name": "Rosmarinus Officinalis Leaf Oil (Rosemary) ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Rosmarinus Officinalis Leaf Oil (Rosemary)",
             "allergic": false,
             "allergic-relation": null
         },
@@ -4983,7 +4983,7 @@
         },
         {
             "id": 829,
-            "name": "Avocado Oil Extracts ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Avocado Oil Extracts",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5001,7 +5001,7 @@
         },
         {
             "id": 832,
-            "name": "Adipic Acidคำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Adipic Acid",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5133,7 +5133,7 @@
         },
         {
             "id": 854,
-            "name": "TOCOPHEROLคำเตือนเก็บผลิตภัณฑ์ให้พ้นจากแสงแดด",
+            "name": "TOCOPHEROL",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5247,19 +5247,19 @@
         },
         {
             "id": 873,
-            "name": "Lactic Acid ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Lactic Acid",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 874,
-            "name": "AQUA / WATER / EAU SODIUM LAURETH SULFATE GLYCOL DISTEARATE COCO-BETAINE GLYCERIN DIMETHICONE SELENIUM SULFIDE CARBOMER CI 47005 / ACID YELLOW 3 CITRIC ACID MENTHOL 2-0LEAMIDO-1",
+            "name": "CITRIC ACID MENTHOL 2-0LEAMIDO-1",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 875,
-            "name": "3-OCTADECANEDIOL PPG-5-CETETH-20 SALICYLIC ACID SODIUM BENZOATE SODIUM CHLORIDE SODIUM HYDROXIDE TOCOPHERYL ACETATE PARFUM / FRAGRANCE. Code F.I.L. :N298403/1คำเตือนมีสาร Selenium disulphide",
+            "name": "3-OCTADECANEDIOL PPG-5-CETETH-20",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5283,7 +5283,7 @@
         },
         {
             "id": 879,
-            "name": "Hexyl Cinnamal ingredients from certified organic agricultureคำเตือนเก็บให้พ้นจากมือเด็ก",
+            "name": "Hexyl Cinnamal ",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5295,7 +5295,7 @@
         },
         {
             "id": 881,
-            "name": "Talc Aluminum Starch Octenylsuccinate Polymethyl Methacrylate Silica Water Paraffinum Liquidum (Mineral Oil) Fragrance Phenoxyethanol Nylon-12 Chlorphenesin o-Cymen-5-ol Glycerin Tocopheryl Acetate Rosa Damascena Flower Water Camellia Sinensis Leaf Extract Potassium Sorbate Citric Acid Sodium Benzoateคำเตือนหากใช้แล้วมีความผิดปกติใดๆ เกิดขึ้น ต้องหยุดใช้ และปรึกษาแพทย์หรือเภสัชกร ซ่อน โปรโมชั่น: (3)",
+            "name": "Talc Aluminum",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5361,7 +5361,7 @@
         },
         {
             "id": 892,
-            "name": "CI 15985 (Yellow 6). ซ่อน โปรโมชั่น: (5) กรุณาใส่สินค้าเข้าตะกร้า 2 ชิ้น เพื่อได้รับสิทธินี้",
+            "name": "CI 15985 (Yellow 6)",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5397,7 +5397,7 @@
         },
         {
             "id": 898,
-            "name": "METHYLISOTHIAZOLINONE. ซ่อน โปรโมชั่น: (1)",
+            "name": "METHYLISOTHIAZOLINONE",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5427,7 +5427,7 @@
         },
         {
             "id": 903,
-            "name": "CI 42090 (Blue 1). ซ่อน โปรโมชั่น: (5) กรุณาใส่สินค้าเข้าตะกร้า 2 ชิ้น เพื่อได้รับสิทธินี้",
+            "name": "CI 42090 (Blue 1)",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5463,7 +5463,7 @@
         },
         {
             "id": 909,
-            "name": "Methylisothiazolinone\"คำเตือนสำหรับใช้ภายนอกเท่านั้น /",
+            "name": "Methylisothiazolinone",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5541,7 +5541,7 @@
         },
         {
             "id": 922,
-            "name": "DMDM Hydration ซ่อน โปรโมชั่น: (1)",
+            "name": "DMDM Hydration",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5613,13 +5613,13 @@
         },
         {
             "id": 934,
-            "name": "Corchorus Olitorius Leaf Extract. Daucus Carota Sativa (Carrot) Root Extract",
+            "name": "Corchorus Olitorius Leaf Extract",
             "allergic": false,
             "allergic-relation": null
         },
         {
             "id": 935,
-            "name": "Ilex Paraguariensis Leaf Extract ซ่อน ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Ilex Paraguariensis Leaf Extract",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5673,7 +5673,7 @@
         },
         {
             "id": 944,
-            "name": "Parfum/Fragrance. ซ่อน โปรโมชั่น: (1) The discount is applicable for members who received promotion via sms and email only The discount is applicable for members who received promotion via sms and email only ชำระเงินและการจัดส่ง ซ่อน การชำระเงิน คุณสามารถสั่งสินค้าและเลือกวิธีการชำระเงินได้ดังนี้: บัตรเครดิต",
+            "name": "Parfum/Fragrancems",
             "allergic": false,
             "allergic-relation": null
         },
@@ -5733,7 +5733,7 @@
         },
         {
             "id": 954,
-            "name": "Ext. Violet 2(CI 60730). ซ่อน โปรโมชั่น: (2)",
+            "name": "Ext. Violet 2(CI 60730)",
             "allergic": false,
             "allergic-relation": null
         }
