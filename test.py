@@ -4,7 +4,7 @@ import requests  # Added for optional link validation
 
 TARGET_URL = "https://www.watsons.co.th/th/search?text=%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9C%E0%B8%A1&useDefaultSearch=false&brandRedirect=true"
 SESSION_FILE = "watsons_session.json"
-OUTPUT_CSV = "final_test.csv"
+OUTPUT_CSV = "skiubidd.csv"
 
 def save_to_csv(links):
     """Append product links to a CSV file."""

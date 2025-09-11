@@ -1,0 +1,232 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "allergic": [
+                3
+            ]
+        }
+    ],
+    "ingredient": [
+        {
+            "id": 1,
+            "name": "water",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 2,
+            "name": "acid",
+            "allergic": true,
+            "allergic-relation": [
+                3
+            ]
+        },
+        {
+            "id": 3,
+            "name": "perfume",
+            "allergic": true,
+            "allergic-relation": [
+                2,
+                4
+            ]
+        },
+        {
+            "id": 4,
+            "name": "niacinamind",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 5,
+            "name": "Zinc Oxide",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 6,
+            "name": "Ethylhexyl Palmitate",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 7,
+            "name": "Ethylhexyl Methoxycinnamate",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 8,
+            "name": "Cyclopentasiloxane",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 9,
+            "name": "4-Methylbenzylidene Camphor",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 10,
+            "name": "Lauryl PEG/PPG- 18/18 Methicone",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 11,
+            "name": "Cyclohexasiloxane",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 12,
+            "name": "Stearyl Dimethicone",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 13,
+            "name": "Butyl Methoxydibenzoylmethane",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 14,
+            "name": "Ceresin",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 15,
+            "name": "Phenoxyethanol",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 16,
+            "name": "Hydrogenated Castor Oil",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 17,
+            "name": "Sodium Chloride",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 18,
+            "name": "Mineral Oil",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 19,
+            "name": "Tocopheryl Acetate",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 20,
+            "name": "Chlorphenesin",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 21,
+            "name": "Dissodium EDTA",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 22,
+            "name": "Triethoxylcaprylylsilane",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 23,
+            "name": "Propylene Glycol",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 24,
+            "name": "Lanolin Alcohal",
+            "allergic": false,
+            "allergic-relation": null
+        },
+        {
+            "id": 25,
+            "name": "Sorbic Acid",
+            "allergic": false,
+            "allergic-relation": null
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "name": "ครีมกันแดด"
+        },
+        {
+            "id": 2,
+            "name": "โฟมล้างหน้า"
+        },
+        {
+            "id": 3,
+            "name": "สบู่"
+        },
+        {
+            "id": 4,
+            "name": "เเชมพู"
+        },
+        {
+            "id": 5,
+            "name": "ครีมบำรุงผิวกาย"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "name": "Spectraban สเปคตร้าแบน เอสพีเอฟ 50+ 100 กรัม",
+            "description": "SpectraBAN SPF 50+ สเปคตราแบน เอสพีเอฟ 50+ ULTRA PROTECTION Broad UVA/UVB protection, Light, non-greasy, Non-comedogenic, Very water resistantผลิตภัณฑ์ป้องกันแสงแดดสำหรับผิวหน้าและผิวกาย ปกป้องผิวจากรังสี UVA / UVB ด้วย SPF 50+ /PA+++ มีประสิทธิภาพสูงในการปกป้องผิวจากรังสี UVA สาเหตุสำคัญของริ้วรอยก่อนวัย และรังสี UVB ต้นเหตุของผิวหมองคล้ำ จุดด่างดำ ฝ้า กระ มีวิตามินอีสารต้านอนุมูลอิสระ สาเหตุหนึ่งของริ้วรอย เนื้อครีมบางเบา ซึมซาบเร็ว ไม่มัน เหมาะสำหรับใช้ทุกวัน - ไม่อุดตันรูขุมขน - hypoallergenic - ไม่มีน้ำหอม และสารกันเสียพาราเบน - สูตรกันน้ำและกันเหงื่อ ประเทศผู้ผลิตThailand เลขที่ใบจดแจ้ง 13-1-6300053551",
+            "using": "ทาทั่วใบหน้า ลำคอ และบริเวณที่จะโดนแสงแดด ทา 15-30 นาทีก่อนสัมผัสแสงแดด ทาซ้ำทุกๆ 2 ชั่วโมง หากมีกิจกรรมกลางแสงแดดเป็นเวลานาน หรือทาซ้ำเมื่อมีเหงื่อออก ว่ายน้ำ หรือเช็ดตัว",
+            "image": [
+                "https://medias.watsons.co.th/publishing/WTCTH-139729-front-zoom.jpg?version=1733517773",
+                "https://medias.watsons.co.th/publishing/WTCTH-139729-front-prodcat.jpg?version=1733517773",
+                "https://medias.watsons.co.th/publishing/WTCTH-139729-side-zoom.jpg?version=1716886980",
+                "https://medias.watsons.co.th/publishing/WTCTH-139729-swatch-zoom.jpg?version=1716872607",
+                "https://medias.watsons.co.th/publishing/WTCTH-139729-front-thumbnail.jpg?version=1733517773",
+                "https://medias.watsons.co.th/publishing/WTCTH-139729-back-zoom.jpg?version=1716872603"
+            ],
+            "ingredient": [
+                1,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "category": 1,
+            "link": "https://www.watsons.co.th/th/spectraban-%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%9A%E0%B8%99-%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%9F-50-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1/p/BP_139729"
+        }
+    ]
+}
